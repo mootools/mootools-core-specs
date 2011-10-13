@@ -1,9 +1,10 @@
 /*
-Script: String.js
-	Specs for String.js
-
-License:
-	MIT-style license.
+---
+name: String Specs
+description: n/a
+requires: [Core/String]
+provides: [String.Specs]
+...
 */
 
 describe("String Methods", {

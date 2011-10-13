@@ -1,17 +1,18 @@
 /*
-Script: Core.js
-	Public Specs for Core.js 1.2
-
-License:
-	MIT-style license.
+---
+name: Cookie Specs
+description: n/a
+requires: [Core/Cookie]
+provides: [Cookie.Specs]
+...
 */
 
 describe('Cookie', {
-	
+
 	"should set a cookie": function(){
 		Cookie.write('test', 1);
-		
-		
+
+
 	}
-	
+
 });

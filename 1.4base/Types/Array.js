@@ -1,4 +1,11 @@
-
+/*
+---
+name: Array Specs
+description: n/a
+requires: [Core/Array]
+provides: [Array.Specs]
+...
+*/
 describe('Array', function(){
 
 	describe('Array.map', function(){

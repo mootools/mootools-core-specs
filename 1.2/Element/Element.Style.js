@@ -1,9 +1,10 @@
 /*
-Script: Element.Style.js
-	Specification Examples of Element.Style.js.
-
-License:
-	MIT-style license.
+---
+name: Element.Style Specs
+description: n/a
+requires: [Core/Element.Style]
+provides: [Element.Style.Specs]
+...
 */
 
 describe('Element.set `opacity`', {

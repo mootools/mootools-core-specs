@@ -1,4 +1,11 @@
-
+/*
+---
+name: Function Specs
+description: n/a
+requires: [Core/Function]
+provides: [Function.Specs]
+...
+*/
 describe('Function.bind', function(){
 
 	it('should still be possible to use it as constructor', function(){

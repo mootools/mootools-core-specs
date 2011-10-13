@@ -1,9 +1,10 @@
 /*
-Script: Class.Extras.js
-	Public specs for Class.Extras.js
-
-License:
-	MIT-style license.
+---
+name: Class.Extras Specs
+description: n/a
+requires: [Core/Class.Extras, Core/Element.Event]
+provides: [Class.Extras.Specs]
+...
 */
 
 (function(){

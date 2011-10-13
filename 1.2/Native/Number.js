@@ -1,9 +1,10 @@
 /*
-Script: Number.js
-	Specs for Number.js
-
-License:
-	MIT-style license.
+---
+name: Number Specs
+description: n/a
+requires: [Core/Number]
+provides: [Number.Specs]
+...
 */
 
 describe("Number Methods", {

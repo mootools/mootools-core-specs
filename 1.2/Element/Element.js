@@ -1,9 +1,10 @@
 /*
-Script: Element.js
-	Specs for Element.js
-
-License:
-	MIT-style license.
+---
+name: Element Specs
+description: n/a
+requires: [Core/Element]
+provides: [Element.Specs]
+...
 */
 
 describe('Element constructor', {

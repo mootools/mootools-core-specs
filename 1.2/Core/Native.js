@@ -1,9 +1,10 @@
 /*
-Script: Core.js
-	Private Specs for Core.js 1.2
-
-License:
-	MIT-style license.
+---
+name: Native Specs
+description: n/a
+requires: [Core/Core]
+provides: [Native.Specs]
+...
 */
 
 (function(){
