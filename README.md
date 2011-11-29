@@ -1,3 +1,9 @@
+DEPRECATED!
+===========
+
+The MooTools Core specs can be found in the [mootools-core repository](https://github.com/mootools/mootools-core/tree/master/Specs)
+
+
 MooTools Core Specs
 ===================
 
